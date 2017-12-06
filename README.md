@@ -2,7 +2,7 @@
 
 A simple class inherited from UIButton. You can set the layout direction in four as you want . And the screenshots has been attached below:
 
-![IMG_1593](/Users/sungrow/Desktop/ZBLayoutButton/IMG_1593.PNG)
+![IMG_1593](./IMG_1593.PNG)
 
 Drag the ZBLayoutButton.swift in to your target, initialize it like using UIButton.
 
