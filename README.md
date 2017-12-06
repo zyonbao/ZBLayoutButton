@@ -1,6 +1,6 @@
 # ZBLayoutButton
 
-A simple class inherited from UIButton. You can set the layout direction in four as you want . And the screenshots has been attached below:
+A simple class inherited from UIButton, autolayout supported. You can set the layout direction in four as you want. And the screenshots has been attached below:
 
 ![IMG_1593](./IMG_1593.PNG)
 
@@ -18,4 +18,4 @@ var layoutDirection: ZBLayoutDirection
 * `padding` is the padding between image and the label. It only take effects while image and label text both not empty
 * `layoutDirection` controls the layout direction for the image view and the label.
 
-More details can be clear in sample code. The source code is simple. Yes, this is just a practice for learning Swift, Use it in your project if you do not mind 🤣.
+More details can be found in sample code which is simple. Yes, this is just a practice for learning Swift, Use it in your project if you do not mind 🤣.
