@@ -6,7 +6,7 @@ A simple class inherited from UIButton. You can set the layout direction in four
 
 Drag the ZBLayoutButton.swift in to your target, initialize it like using UIButton.
 
-Note:  There are two property should be attention :
+Note:  There are two property should be attentioned :
 
 ```swift
 var textAttributes: [NSAttributedStringKey : Any]
